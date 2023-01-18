@@ -1,0 +1,14 @@
+owner = EGY
+controller = EGY
+add_core = LEB
+add_core = ASR
+add_core = EGY
+add_core = TUR
+trade_goods = grain
+life_rating = 35
+
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+	colonial = 0
+}

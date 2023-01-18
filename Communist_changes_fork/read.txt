@@ -1,0 +1,7 @@
+Communist Changes v28
+
+ASR_monarchy flag derived from 129 on Wikipedia https://commons.wikimedia.org/wiki/File:Zulfiqar_with_inscription.png
+
+GWL flags derived from https://en.wikipedia.org/wiki/File:Flag_of_Wales.svg
+
+Officers as rich strata by settintotrieste: https://github.com/settintotrieste https://github.com/settintotrieste/Victoria-2-Cold-War-Enhancement-Mod-CWE/blob/master/CWE/poptypes/officers.txt

@@ -1,0 +1,583 @@
+EVTNAME110000;Secessionist Sentiments!;Sentiments sécessionnistes !;Sezessionistische Gefühle!;;¡Sentimientos secesionistas!;;;;;;;;;x
+EVTDESC110000;Talk of secession from the Empire can be heard on the streets of $PROVINCENAME$.;Talk of secession from the Empire can be heard on the streets of $PROVINCENAME$.;Talk of secession from the Empire can be heard on the streets of $PROVINCENAME$.;;Talk of secession from the Empire can be heard on the streets of $PROVINCENAME$.;;;;;;;;;x
+EVTNAME1004;Anarchists;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC1004;We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from oppression and scarcity. We need a society without a government, without class divisions and where the workers control the means of production.';Nous voulons, non, nous avons besoin d'une soci??libre, o?personne ne soit consid??comme sup?ieur, o?personne ne soit laiss?pour compte et o?l'humanit?soit libre de toute oppression et ne souffre d'aucune p?urie. Il nous faut une soci??sans gouvernement, sans divisions de classes et o?les travailleurs contr?ent les moyens de production.;Wir wollen, nein, BRAUCHEN eine freie Gesellschaft, in der niemand als dem anderen ?erlegen angesehen wird, niemand zur?kgelassen wird, und wo die Menschen frei von Unterdr?kung und Armut sind. Wir brauchen eine Gesellschaft ohne Regierung, ohne Klassentrennung, und wo die Arbeiter die Produktionsmittel bestimmen;;Deseamos, mejor dicho, NECESITAMOS una sociedad libre en la que nadie sea considerado superior, no se deje a nadie de lado y en la que la humanidad est?libre de la opresi? y la escasez. Necesitamos una sociedad sin gobierno, sin divisiones de clases y en la que los trabajadores controlen los medios de producci?.;;;;;;;;;x;;;;
+EVTDESC1004_NEWS_LONG;$COUNTRY$: We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from oppression and scarcity. We need a society without a government, without class divisions and where the workers control the means of production. We postulate a society without division and alienation, a society without money and private property, promising overabundance of resources in the world organized according to our ideology. Distribution ought to be based on need, human association should be completely free.;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der keine Unterdrückung oder Knappheit herrscht. Wir brauchen eine Gesellschaft ohne Regierung oder Klassentrennung, in der die Arbeiter die Produktion kontrollieren. Wir streben nach einer Gesellschaft ohne Verfremdung, Geld oder Privateigentum mit einem Überschuss an Ressourcen in der Welt gemäß unserer Ideologie. Güterverteilung sollte auf Bedarf basieren, der Mensch komplett frei sein.;;;;;;;;;;;x;
+EVTDESC1004_NEWS_MEDIUM;$COUNTRY$: We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from scarcity. We need a society without a government, without class divisions and where the workers control the means of production.;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der keine Knappheit herrscht. Wir brauchen eine Gesellschaft ohne Regierung oder Klassentrennung, in der die Arbeiter die Produktion kontrollieren.;;;;;;;;;;;x;
+EVTDESC1004_NEWS_SHORT;$COUNTRY$: We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from oppression and scarcity.;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der die Menschheit frei von Unterdrückung und Knappheit ist.;;;;;;;;;;;x;
+global_socialist_agitation;Socialist Agitation;Agitation libérale;Liberale Agitation;;Agitación liberal;;;;;;;;;x;
+desc_global_socialist_agitation;Firebrands are arguing the cause of socialism and revolution.;Des exaltés soutiennent le libéralisme et la révolution.;Aufwiegler in diesen Provinzen fordern die liberale Revolution.;;Los sediciosos apoyan la causa del liberalismo y la revolución.;;;;;;;;;x;
+global_communist_agitation;Communist Agitation;Agitation libérale;Liberale Agitation;;Agitación liberal;;;;;;;;;x;
+desc_global_communist_agitation;Firebrands are arguing the cause of communism and revolution.;Des exaltés soutiennent le libéralisme et la révolution.;Aufwiegler in diesen Provinzen fordern die liberale Revolution.;;Los sediciosos apoyan la causa del liberalismo y la revolución.;;;;;;;;;x;
+global_fascist_agitation;Fascist Agitation;Agitation libérale;Liberale Agitation;;Agitación liberal;;;;;;;;;x;
+desc_global_fascist_agitation;Firebrands are arguing the cause of fascism and revolution.;Des exaltés soutiennent le libéralisme et la révolution.;Aufwiegler in diesen Provinzen fordern die liberale Revolution.;;Los sediciosos apoyan la causa del liberalismo y la revolución.;;;;;;;;;x;
+decentralized_planning;Decentralized Planning;Économie planifiée;Planwirtschaft;;Economía planificada;;;;;;;;;x;;;;
+decentralized_planning_l;Decentralized Planning;Économie planifiée;Planwirtschaft;;Economía planificada;;;;;;;;;x;;;;
+decentralized_planning_desc;The government makes many decisions on the production and consumption of goods and services.;Le gouvernement prend toutes les d?isions sur la production et la consommation des biens et des services.;Die Regierung trifft s?tliche Entscheidungen hinsichtlich der Produktion und des Verbrauchs von G?ern und Dienstleistungen.;;El gobierno toma todas las decisiones sobre la producci? y el consumo de bienes y servicios.;;;;;;;;;x;;;;
+radical_capitalist_party;Capitalist faction;;;;;;;;;;;;;x;;;;
+liberal_uh;Liberals want to enact further political and social reforms.;Les libéraux veulent promulguer de nouvelles réformes politiques et sociales.;Liberale wollen weitere politische und soziale Reformen durchführen.;;Los liberales quieren promulgar más reformas políticas y sociales.;;;;;;;;;x;
+ABU;United Arab Emirates;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
+ABU_ADJ;Emirati;Emirati;Emirate;;Emirati;;;;;;;;;x;;;;
+ABU_absolute_monarchy;Abu Dhabi;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
+ABU_absolute_monarchy_ADJ;Abu Dhabian;Abu-dhabien;Abu Dhabisch;;Abu Dhab?;;;;;;;;x;;;;
+ABU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ABU_democracy;United Arab States;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
+AFG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ALB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ALD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ANH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ANH_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+ARA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ARA_socialist_2;Baath Party;Parti Baas;Baath-Partei;;Partido Árabe Socialista Baath;;;;;;;;;x
+ARG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ARM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ASR;Syria;Syrie;Syrien;;Siria;;;;;;;;;x;;;;
+ASR_ADJ;Syrian;Syrian;Syrian;;Syrian;;;;;;;;;x;;;;
+ASR_absolute_monarchy;Alawite Kingdom;Alawite Kingdom;Alawite Kingdom;;Alawite Kingdom;;;;;;;;;x;;;;
+AST_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ATJ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+AUS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+AWA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+AZB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAD_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+BAL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAV_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BAV_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+BAY_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+BEL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BER_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BHO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BHU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BIK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BOH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BOL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BOS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BRA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BRA_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+BRE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BRE_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+BRU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BRZ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BUK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BUL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BUN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BUR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BYE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BYZ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+BYZ_anarcho_liberal;Neoteristikon Kómma;Neoteristikon Kómma;Neoteristikon Kómma;;Neoteristikon Kómma;;;;;;;;x
+CAL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CAL_reactionary_2;Norton Dynasty;Parti Norton;Norton Party;;Partido Norton;;;;;;;;;x;;;;
+CAM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CAT_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CHE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CHI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CHL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CHL_socialist_2;Partido Radical;Partido Radical;Partido Radical;;Partido Radical;;;;;;;;;x;;;;
+CLM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CNG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CNG_anarcho_liberal;Anarcho-Liberal Party;Party Anarcho-libéral;Anarcho-liberale Partei;;Partido anarcoliberal;;;;;;;;;x
+COB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+COB_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+COL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+COS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CRE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CRI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CRO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CSA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CUB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CYP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CZH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DAI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DAN_anarcho_liberal;Radikale-Venstre;Radikale-Venstre;Radikale-Venstre;;Radikale-Venstre;;;;;;;;;x;;;;
+DEN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DES_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DOM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DZG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+DZG_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+ECU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+EGY_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ELS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ENG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ENG_socialist_2;Labour Party;Parti travailliste;Labour Party;;Partido Laborista;;;;;;;;;x;;;;
+ENG_socialist_3;Labour Party;Parti travailliste;Labour Party;;Partido Laborista;;;;;;;;;x;;;;
+EST_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ETH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+FIN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+FLA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+FRA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+FRM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+FRM_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+GCO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GEO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GER_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GER_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+GRE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GUA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GWA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+GXI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HAI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HAM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HAM_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+HAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HAN_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+HAW_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HDJ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HDJ;Transjordan;Transjordan;Transjordanien;;Transjordan;;;;;;;;;x;
+HDJ_ADJ;Levantine;Levantin;Levantinisch;;Levantina;;;;;;;;;x;;;;
+HDJ_absolute_monarchy;Hashemite Kingdom;Haschemitisches Königreich;Royaume hachémite;;Reino Hachemita;;;;;;;;;x;;;;
+HDJ_hms_government;Hashemite Kingdom;Haschemitisches Königreich;Royaume hachémite;;Reino Hachemita;;;;;;;;;x;;;;
+HDJ_absolute_monarchy_ADJ;Hashemite;Haschemit;hachémite;;Hachemita;;;;;;;;x;;;;
+HDJ_reactionary;Hashemite Faction;Faction hachémite;Hashemitische Fraktion;;Facción Hachemita;;;;;;;;;x
+HED_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+HEK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HEK_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+HES_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HLS_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+HND_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HOL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HOL_conservative_2;Anti-Revolutionaire Partij;Anti-Revolutionaire Partij;Anti-Revolutionaire Partij;;Anti-Revolutionaire Parti;;;;;;;;;x;;;;
+HOL_anarcho_liberal;Radical Partij;Partij radical;Radical Partij;;Radical Partij;;;;;;;;;x;;;;
+HON_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HUN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+HYD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ICL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ICL_anarcho_liberal;Besti flokkurinn;Besti flokkurinn;Besti flokkurinn;;Besti flokkurinn;;;;;;;;x
+IND_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ION_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+IRE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+IRE_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La facci? radical;;;;;;;;;x;;;;
+IRE_socialist_2;Sinn Fein;Sinn Fein;Sinn Fein;;Sinn Fein;;;;;;;;;x;;;;
+IRQ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ISR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ISR_anarcho_liberal;Tzionim Klaliym;Tzionim Klaliym;Tzionim Klaliym;;Tzionim Klaliym;;;;;;;;x
+ITA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JAI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JAP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JAS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JAV_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JOD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+JOH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KAL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KZK;Kazakhstan;;;;;;;;;;;;x;;;;
+KZK_ADJ;Kazakh;;;;;;;;;;;;;x;;;;
+KZK_conservative;Royal Faction;Faction royale;K?igsfraktion;;Facci? Real;;;;;;;;;x;;;;
+KZK_liberal;The Liberal Faction;Faction lib?ale;Die liberale Fraktion;;La Facci? Liberal;;;;;;;;;x;;;;
+KZK_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facci? Nacionalista;;;;;;;;;x;;;;
+KZK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facci? Radical;;;;;;;;;x;;;;
+KZK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facci? Socialista;;;;;;;;;x;;;;
+KZK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facci? Comunista;;;;;;;;;x;;;;
+KZK_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facci? Fascista;;;;;;;;;x;;;;
+KZK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KAS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KHI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KHI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
+KOK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KOR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KRA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KRD;Kurdistan;;;;;;;;;;;;x;;;;
+KRD_ADJ;Kurdistani;;;;;;;;;;;;;x;;;;
+KRD_absolute_monarchy;Kurdistan;;;;;;;;;;;;;x;;;;
+KRD_hms_government;Kurdistan;;;;;;;;;;;;;x;;;;
+KRD_prussian_constitutionalism;Kurdistan;;;;;;;;;;;;;x;;;;
+KRD_anarchist;Anarchists;;;;;;;;;;;;;x;;;;
+KRD_conservative;Chiefs Faction;;;;;;;;;;;;;x;;;;
+KRD_liberal;Liberal Faction;;;;;;;;;;;;;x;;;;
+KRD_socialist;Socialist faction;;;;;;;;;;;;;x;;;;
+KRD_socialist_2;Social Democrat Faction;;;;;;;;;;;;;x;;;;
+KRD_reactionary;King's Faction;;;;;;;;;;;;;x;;;;
+KRD_reactionary_2;Sheikhs Faction;;;;;;;;;;;;;x;;;;
+KRD_reactionary_3;Reactionary faction;;;;;;;;;;;;;x;;;;
+KRD_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+KRD_communist;Communists;;;;;;;;;;;;;x;;;;
+KRD_fascist;Fascists;;;;;;;;;;;;;x;;;;
+KSA;Arabia;;;;;;;;;;;;x;;;;
+KSA_ADJ;Saudi;;;;;;;;;;;;;x;;;;
+KUK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+KUT_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LAD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LAT_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LIB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LIP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LIP_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+LIT_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LOM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LUA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LUB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LUB_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+LUC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+LUX_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MAD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MAK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MCK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MEC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MEC_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+MEI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MEI_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+MEW_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MEX_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MGL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MOD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MOL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MON_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MOR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MTC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MUG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+MYS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NAG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NAL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NAS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NAS_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+NEJ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NEN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NEP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NET_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NEW_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NGF_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NGF_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+NIC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NOR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+NZL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+OLD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+OLD_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+OMA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ORA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ORI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PAN_conservative_2;Conservative faction;;;;;;;;;;;;;x;;;;
+PAN_reactionary_2;Nobles faction;;;;;;;;;;;;;x;;;;
+PAP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PAR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PER_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PEU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PHI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PLC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PNM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+POL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+POR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PRG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PRG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PRU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PRU_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+QUE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+RHO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+RHO_anarcho_liberal;Responsible Government Association;Association pour un Gouvernement responsable;Responsible Government Association;;Asociación por un Gobierno Responsable;;;;;;;;;x
+ROM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+RUS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+RUS_communist_3;NEP;NEP;NEP;;NEP;;;;;;;;;x;;;;
+RUS_communist_4;Stalinists;Parti communiste russe;Russische Kommunistische Partei;;Partido comunista ruso;;;;;;;;;x
+RUS_communist_5;Russian Communist Party;Parti communiste russe;Russische Kommunistische Partei;;Partido comunista ruso;;;;;;;;;x
+RUT_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SAF_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SAR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SAX_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SAX_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+SCA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SCH_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SCH_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+SCO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SER_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SGF_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SGF_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+SHI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SIA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SIC_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SIE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SIK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SIN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SLO_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SLV_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SOK_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SPA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SWE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SWE_anarcho_liberal;Centerpartiet;;;;;;;;;;;;;x;;;;
+SWI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+SXI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TEX_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TIB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TPG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TRA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TRE_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TRI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TRN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TUN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TUR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+TUR_anarcho_liberal_2;Union and Progress Party;;;;;;;;;;;;;x;;;;
+TUR_fascist;Union and Progress Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;
+TUR_socialist_3;Republican People's Party;Front démocratique;Demokratische Front;;Frente Democrático;;;;;;;;;x;;;;
+TUS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+UBD_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+UCA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+UCA_liberal_2;Partido Federalista;Parti fédéraliste;Partido Föderalistische;;Partido Federalista;;;;;;;;;x
+UFO;Mysterious Airships;;;;;;;;;;;;x;;;;
+UFO_ADJ;Mysterious Airship;;;;;;;;;;;;;x;;;;
+UFO_anarchist;Anarchists;;;;;;;;;;;;;x;;;;
+UFO_conservative;Conservative Faction;;;;;;;;;;;;;x;;;;
+UFO_liberal;Liberal Faction;;;;;;;;;;;;;x;;;;
+UFO_socialist;Socialist faction;;;;;;;;;;;;;x;;;;
+UFO_socialist_2;Social Democrat faction;;;;;;;;;;;;;x;;;;
+UFO_reactionary;Nobles Faction;;;;;;;;;;;;;x;;;;
+UFO_anarcho_liberal;Anarcho-liberal faction;;;;;;;;;;;;;x;;;;
+UFO_communist;Communist faction;;;;;;;;;;;;;x;;;;
+UFO_fascist;Fascist faction;;;;;;;;;;;;;x;;;;
+UKR_anarchist;Black Army;;;;;;;;;;;;;x;;;;
+URU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+USA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+USA_conservative;Agrarian Democrats;Agrarian Democrats;Agrarian Democrats;;Agrarian Democrats;;;;;;;;;x;;;;
+USA_conservative_2;Whigs;Whigs;Whigs;;Whigs;;;;;;;;;x;;;;
+USA_conservative_3;American System;American System;American System;;American System;;;;;;;;;x;;;;
+USA_conservative_4;Constitutional Union Party;Parti de l'union constitutionnelle;Constitutional Union Party;;Partido de la Uni? Constitucionalista;;;;;;;;;x;;;;
+USA_conservative_5;Democratic Party;Parti d?ocrate;Democratic Party;;Partido Dem?rata;;;;;;;;;x;;;;
+USA_conservative_6;Small Government Conservatives;Peace Democrats;Peace Democrats;;Peace Democrats;;;;;;;;;x;;;;
+USA_liberal;Republican Party;Parti r?ublicain;Republican Party;;Partido Republicano;;;;;;;;;x;;;;
+USA_liberal_2;Abolitionists;abolitionnistes;Abolitionisten;;Abolicionistas;;;;;;;;;x;;;;
+USA_liberal_3;Free Soil Party;Parti du sol libre;Free Soil Party;;Partido de la Tierra Libre;;;;;;;;;x;;;;
+USA_liberal_4;Populist Party;Parti populiste;Populist Party;;Partido Populista;;;;;;;;;x;;;;
+USA_liberal_5;Democratic Party;Parti d?ocrate;Democratic Party;;Partido Dem?rata;;;;;;;;;x;;;;
+USA_socialist;Socialist Party;Parti socialiste;Socialist Party;;Partido Socialista;;;;;;;;;x;;;;
+USA_socialist_1;Populist Party;Parti populiste;Populist Party;;Partido Populista;;;;;;;;;x;;;;
+USA_socialist_2;Progressives;Parti populiste;Populist Party;;Partido Populista;;;;;;;;;x;;;;
+USA_socialist_3;Progressive Democrats;Parti d?ocrate;Democratic Party;;Partido Dem?rata;;;;;;;;;x;;;;
+USA_reactionary_2;Southern Democrats;Démocrates du sud;Südliche Demokraten;;Demócratas sureños;;;;;;;;;x;;
+USA_anarcho_liberal;Radical Party;Parti radical;Radical Party;;Partido Radical;;;;;;;;;x;;;;
+USA_communist;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x;;;;
+USA_fascist;Eugenics Society;Parti fasciste;Fascist Party;;Partido Fascista;;;;;;;;;x;;;;
+USA_fascist_1;Ku Klux Klan;Ku Klux Klan;Ku Klux Klan;;Ku Klux Klan;;;;;;;;;x;;;;
+VEN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+VNZ_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WAL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WEI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WEI_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+WIA_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WLL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WUR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+WUR_anarcho_liberal;The Radical Party;Parti radical;Die radikale Partei;;El Partido Radical;;;;;;;;;x;;;;
+XBI_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+XIN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+YEM_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+YNN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+YUG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ZAN_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ZUL_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+dominion_anarchist;Anarchist Party;;;;;;;;;;x;;;
+CSA_anarchy;Union of Southern Councils;;;;;;;;;;;;;x
+USA_anarchy;Union of Councils;;;;;;;;;;;;;x
+PAP_anarchy;The Commune of Rome;;;;;;;;;;;;;x
+PAP_anarchy_ADJ;Roman;Romaine;Römische;;Romana;;;;;;;;;x;;;;
+PAP_proletarian_dictatorship;The Commune of Rome;;;;;;;;;;;;;x
+PAP_proletarian_dictatorship_ADJ;Roman;Romaine;Römische;;Romana;;;;;;;;;x;;;;
+anarchy;Anarchy;Démocratie;Demokratie;;Democracia;;;;;;;;;x;;;;
+anarchy_ruler;Chairman;Président;Vorsitzender;;Presidente del consejo;;;;;;;;;x;;;;
+anarchist;Anarchist;Anarchiste;Sozialistisch;;Socialista;;;;;;;;;x;;;;
+anarchist_uh;Anarchists support the extension of social and political reform, but will oppose any reform as long as the ruling party is not Anarchist.;;;;;;;;;;;;;x;
+anarchist_focus;Party loyalty towards §Yanarchist§! ;Loyauté envers le parti §Ycommuniste§! ;Parteiloyalität gegenüber §Ycommunist§! ;;;;;;;;;;;x
+anarchist_focus_short;§YAnarchists§! loyalty;Loyauté §Ycommuniste§!;§YKommunistische§! Loyalität;;;;;;;;;;;x
+anarchist_rebels_title;Anarcho-Socialist;Anarcho-socialiste;Anarcho-sozialistische;;Anarcosocialistas;;;;;;;;;x
+anarchist_rebels_name;Anarcho-Socialist Rebels;Anarcho-socialiste Rebelles;Anarcho-sozialistische Rebellen;;Rebeldes anarcosocialistas;;;;;;;;;x
+anarchist_rebels_desc;TODO;TODO;TODO;;TODO;;;;;;;;;x
+anarchist_rebels_army;Anarcho-Socialist Rebels;Anarcho-socialiste Rebelles;Anarcho-sozialistische Rebellen;;Rebeldes anarcosocialistas;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_TITLE_LARGE_ANARCHIST;ANARCHISM TRIUMPHS IN $TAG_0_0_UPPER$!;;KOMMUNISMUS TRIUMPHIERT IN $TAG_0_0_UPPER$!;;;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_LARGE_ANARCHIST;Workers of the world, unite!' Once more our rallying cry has proven fitting for such a victorious revolution. The corrupt powers of capitalism cannot stop the desire of the proletariat for a better future. We have received joyous news from our comrades in $TAG_0_0$, who managed to rise in rebellion against the crooks and thieves that mistreated and exploited the common folk. They seized the governmental powers, taking it back where it belongs: the hands of the people, represented by the people's committee: $STRING_0_0$!;;Unser Aufruf 'Proletarier aller Länder, vereinigt Euch!' zeigt sich erneut mehr als passend für eine so siegreiche Revolution. Die korrupten Machenschaften des Kapitalismus können den Wunsch des Proletariats auf eine bessere Zukunft nicht ersticken. Wir erhielten frohe Kunde von unseren Genossen in $TAG_0_0$, deren Rebellion gegen die Gauner und Diebe, die das Volk misshandeln und ausnutzen, sich im Aufwind befindet. Sie haben die Regierungsaufgaben dorthin übertragen, wo sie hingehören: in die Hand des Volkes, repräsentiert durch ein Volkskomitee: $STRING_0_0$!;;;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_TITLE_MEDIUM_ANARCHIST;ANARCHISM IN $TAG_0_0_UPPER$!;;KOMMUNISMUS IN $TAG_0_0_UPPER$!;;;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_MEDIUM_ANARCHIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our anarchist comrades have been victorious in overthrowing the government and establishing the one and true people's party: $STRING_0_0$!;;Der Aufruf 'Proletarier aller Länder, vereinigt Euch!' erschallt heute in ganz $TAG_0_0$, wo unsere kommunistischen Genossen die Regierung erfolgreich stürzten und die einzig wahre Volkspartei etablierten: $STRING_0_0$!;;;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_TITLE_SMALL_ANARCHIST;REVOLUTION!;;REVOLUTION!;;;;;;;;;;;x
+ANARCHIST_REVOLUTION_NEWS_SMALL_ANARCHIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt capitalist crooks!;;Der Aufruf 'Proletarier aller Länder, vereinigt Euch!' erschallt heute in ganz $TAG_0_0$, wo unsere Genossen die korrupten, kapitalistischen Gauner erfolgreich stürzten!;;;;;;;;;;;x
+democratic_socialist_rebels_title;Socialist;Socialiste;Sozialistische;;Socialistas;;;;;;;;;x
+democratic_socialist_rebels_name;Socialist Rebels;Socialiste Rebelles;Sozialistische Rebellen;;Socialistas;;;;;;;;;x
+democratic_socialist_rebels_desc;TODO;TODO;TODO;;TODO;;;;;;;;;x
+democratic_socialist_rebels_army;Socialist Rebels;Socialiste Rebelles;Sozialistische Rebellen;;Socialistas;;;;;;;;;x
+REMOVED_socialist_uh;Socialists want to see the enactment of further social and political reforms.;Les socialistes veulent davantage de réformes sociales.;Sozialisten sind an zusätzlichen Sozialreformen interessiert.;;Los socialistas abogan por promulgar más reformas sociales.;;;;;;;;;x;
+anarcho_liberal;Capitalist;Capitaliste;Kapitalist;;Capitalista;;;;;;;;;x;;;;
+anarcho_liberal_uh;Capitalists want to see social reforms rolled back, and will not support further reforms unless they are the ruling party.;Les anarcho-libéraux veulent davantage de réformes politiques et le retrait des réformes sociales.;Anarcho-Liberale sind an zusätzlichen Politikreformen interessiert, setzen sich aber für die Außerkraftsetzung von Sozialreformen ein.;;Los anarcoliberales rechazan las reformas sociales, y nunca apoyarán más reformas de ningún tipo.;;;;;;;;;x;
+anarcho_liberal_focus;Party loyalty towards §Ycapitalist§! ;Loyauté envers le parti §Capitalistes§! ;Parteiloyalität gegenüber §YKapitalisten§! ;;;;;;;;;;;x
+anarcho_liberal_focus_short;§YCapitalist§! loyalty;Loyauté §YCapitalistes§!;§YKapitalisten§! Loyalität;;;;;;;;;;;x
+anarcho_liberal_rebels_title;Capitalist Rebels;Rebelles Capitalistes;Kapitalisten Rebellen;;Rebeldes Capitalistas;;;;;;;;;x;;;;
+anarcho_liberal_rebels_name;$COUNTRY$ Capitalist Rebels;$COUNTRY$ - Capitalistes;$COUNTRY$e Kapitalisten;;Capitalistas de $COUNTRY$;;;;;;;;;x;;;;
+anarcho_liberal_rebels_desc;The Citizen Guard are militant liberals who have risen up in rebellion against the, real or perceived, oppressive practices of the government and the state apparatus, seeking to protect their personal liberty whatever the cost. Fighting against the tyrannical state, these revolutionaries consider themselves freedom-fighters in the true sense of the word.;La Garde Civile est compos? de militants lib?aux qui sont entr? en r?ellion contre les, r?lles ou per?es, pratiques oppressives du gouvernement et contre l'appareil d'Etat, cherchant ?pr?erver leur libert?individuelle quel qu'en soit le co?. Combattant contre l'Etat tyrannique, ces r?olutionnaires se consid?ent comme des combattants de la libert? au sens propre du terme.;Die B?gerwache sind militante Liberale, die sich in offener Rebellion gegen die - echten oder angenommenen - unterdr?kenden Praktiken der Regierung und des Staatsapparats befinden und danach streben, ihre pers?liche Freiheit um jeden Preis zu verteidigen. Diese Revolution?e sehen sich im Kampf gegen den Tyrannen als Freiheitsk?pfer im eigentlichen Sinne.;;Los Guardias Urbanos son liberales militantes que se han alzado en armas contra las pr?ticas opresivas (reales o imaginarias) del gobierno y el aparato estatal, con el fin de defender su libertad individual a toda costa. Estos revolucionarios consideran que su lucha contra la tiran? del estado los convierte en paladines de la libertad en el aut?tico sentido de la palabra.;;;;;;;;;x;;;;
+anarcho_liberal_rebels_army;$COUNTRY_ADJ$ Mercenaries;Garde citoyenne $COUNTRY_ADJ$;$COUNTRY_ADJ$e B?gerwache;;Guardias ciudadanos de $COUNTRY$;;;;;;;;;x;;;;
+radical;Radical;Radical;Radikale;;Radical;;;;;;;;;x;;;;
+radical_uh;Radicals want more political reforms and the withdrawal of social reforms.;Les anarcho-libéraux veulent davantage de réformes politiques et le retrait des réformes sociales.;Anarcho-Liberale sind an zusätzlichen Politikreformen interessiert, setzen sich aber für die Außerkraftsetzung von Sozialreformen ein.;;Los radicales quieren más reformas políticas y el retiro de las reformas sociales.;;;;;;;;;x;
+radical_rebels_title;Radical Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;
+radical_rebels_name;Radical Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;
+radical_rebels_desc;Radical Rebels strive for the inclusion of broader stratas of the population in the government of the nation. In an absolute monarchy they will rise to impose a constitutional monarchy, whereas they in all other cases seek to establish a democracy.;Les rebelles Jacobins libéraux luttent pour inclure des classes plus larges de la population dans le gouvernement de la nation. En présence d'une monarchie absolue, ils se dresseront pour imposer une monarchie constitutionnelle, s'ils ne cherchent pas a établir une démocratie.;Liberale jakobinische Rebellen streben danach, größere Teile unserer Bevölkerung in die Regierung unseres Landes zu integrieren. In einer absoluten Monarchie werden sie sich zur Erzwingung einer konstitutionellen Monarchie erheben. In anderen Situationen werden sie sich für die Errichtung einer Demokratie einsetzen.;;Los rebeldes jacobinos liberales pugnan por la inclusión de estratos más amplios de la población en el gobierno de la nación. En una monarquía absoluta, se alzarán para imponer una monarquía constitucional, mientras que en cualquier otro caso buscarán establecer una democracia.;;;;;;;;;x;;
+radical_rebels_army;Republican Guard;Garde républicaine;Republikanische Wache;;Guardia republicana;;;;;;;;;x;;
+GWL;Cymru;;;;;;;;;;;;x;;;;
+GWL_ADJ;Welsh;;;;;;;;;;;;;x;;;;
+GWL_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x;;;;
+GWL_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x;;;;
+GWL_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x;;;;
+GWL_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x;;;;
+GWL_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;;x;;;;
+GWL_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;;x;;;;
+GWL_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;;x;;;;
+extraterrestrial;Alien;;;;;;;;;;;;;x;;;;
+gray;Alien;;;;;;;;;;;;;x;;;;
+creole;Creole;;;;;;;;;;;;;x;;;;
+welsh;Welsh;;;;;;;;;;;;;x;;;;
+romani_cultures;Romani Cultures;;;;;;;;;;;;;x;;;;
+roma;Roma;;;;;;;;;;;;;x;;;;
+dom;Dom;;;;;;;;;;;;;x;;;;
+sinti;Sinti;;;;;;;;;;;;;x;;;;
+irish_travellers;Travellers;;;;;;;;;;;;;x;;;;
+south_american;Native South American;Am?indien;Uramerikanisch;;Nativo-americana;;;;;;;;;x;;;;
+synthetic_fiber_factory;Synthetic Silk Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+synthetic_fiber_factory_desc;Synthetic Silk Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+polychloroprene_factory;Synthetic Rubber Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+polychloroprene_factory_desc;Synthetic Rubber Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+isoprene;Isoprene;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+isoprene_desc;Isoprene;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+nylon;Synthetic Fiber;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+nylon_desc;Synthetic Fiber;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+submarine;Submarine;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+irreligion;Irreligious Group;;;;;;;;;;;;;x;;;;
+freethought;Freethought;;;;;;;;;;;;;x;;;;
+peter_kropotkin;Peter Kropotkin;Peter Kropotkin;Peter Kropotkin;;Peter Kropotkin;;;;;;;;;x;;;;
+peter_kropotkin_desc;Peter Kropotkin;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+mikhail_bakunin;Mikhail Bakunin;Mikhail Bakunin;Mikhail Bakunin;;Mikhail Bakunin;;;;;;;;;x;;;;
+mikhail_bakunin_desc;Mikhail Bakunin;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTNAME17710;Anarchist Soup kitchens;Soupes populaires anarchistes;Anarchistische Suppenküchen;;Comedores populares anarquistas;;;;;;;;;x
+EVTDESC17710;The anarchists have begun organizing soup kitchens for the unemployed in one of our states, citing the need to 'Protect and preserve the free $COUNTRY_ADJ$ industrial workers from the ravages of capitalism'. Several other parties, along with leading liberal and conservative dailies, have expressed sharp criticism of the party's work, claiming that it, in the end, amounts to little less than bribery and the buying of voter support. The anarchists themselves do not seem overly concerned about these accusations.;;;;;;;;;;;;;x
+EVTNAME4500;Separation of Church and State;;;;;;;;;;;;;x
+EVTDESC4500;The new government has disestablished the state religion and guaranteed freedom of conscience for all citizens.;;;;;;;;;;;;;x
+mutual_aid_society;Mutual Aid;;;;;;;;;;;;;x;;;;
+fascist_group;Fascist & Reactionary parties;Partis fascistes & réactionnaires;faschistischen & reaktionären Parteien;;Partidos fascistas y reaccionarios;;;;;;;;;x
+conservative_group;Conservative parties;Partis conservateurs;konservativen Parteien;;Partidos conservadores;;;;;;;;;x
+socialist_group;Socialist & Communist parties;Partis socialistes & communistes;sozialistischen & kommunistischen Parteien;;Partidos socialistas y comunistas;;;;;;;;;x
+liberal_group;Liberal & Capitalist parties;Partis libéraux & capitalistes;liberalen & Kapitalisten Parteien;;Partidos liberales y capitalistas;;;;;;;;;x
+jim_crow;Jim Crow Laws;;;;;;;;;;;;;x;;;;
+civil_rights_act;Civil Rights Act;;;;;;;;;;;;;x;;;;
+civil_rights_act_title;Civil Rights Act;Loi sur les droits civils;Bürgerrechtsgesetz;;Ley de Derechos Civiles;;;;;;;;;x
+civil_rights_act_desc;All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.;;;;;;;;;;;;x
+EVTNAME60160;$COUNTRY_ADJ$ Thaw;Dégel $COUNTRY_ADJ$;$COUNTRY_ADJ$ Tauwetter;;Distensión en $COUNTRY$;;;;;;;;;x;;;;
+EVTDESC60160;The dictatorship is not what it used to be. Increased pluralism, combined with extended political reforms, have led to the dictatorship more and more taking on the trappings of a democracy. While this doesn't necessarily mean that the party has given up it's reign on power, it does mean that the opposition now has some chance of making its voice heard.;La dictature n'est plus ce qu'elle ?ait. Un pluralisme croissant, combin?avec des r?ormes politiques ?endues, ont conduit la dictature, petit ?petit, ?prendre des allures de d?ocratie. Bien que cela ne signifie pas n?essairement que le parti a renonc??son r?ne sur le pouvoir, cela veut dire, par contre, que l'opposition a d?ormais des chances de faire entendre sa voix.;Die Diktatur ist nicht mehr, was sie einmal war. Verst?kter Pluralismus hat zusammen mit ausgedehnten politischen Reformen dazu gef?rt, dass die Diktator mehr und mehr die Z?e einer Demokratie annimmt. W?rend dies nicht unbedingt hei?n muss, dass die Partei ihre Regierungsgewalt aufgibt, so bedeutet es doch, dass die Opposition nun eine nicht unerhebliche Chance hat, sich Geh? zu verschaffen.;;La dictadura ya no es lo que era. El incremento del pluralismo, combinado con amplias reformas pol?icas, ha llevado a la dictadura a caer progresivamente en los modos de una democracia. Aunque ello no signifique necesariamente que el partido haya perdido su reinado en el poder, significa que ahora la oposici? tiene alguna posibilidad de hacer o? su voz.;;;;;;;;;x;;;;
+EVTOPTA60160;Liberty!;Liberté !;Freiheit!;;¡Libertad!;;;;;;;;;x;;;;
+enact_reactionary_reconstruction_title;Reconstruction;Reconstruction;Wiederaufbau;;Reconstrucción;;;;;;;;;x
+enact_reactionary_reconstruction_desc;Reconstruction is the collective term used to described the policies, laws, decrees, constitutional amendments and presidential orders enacted, after the American Civil War, with the goal of reintegrating the former Confederate states back into the Union. The policies centered chiefly around issues like the ending of 'Slave Power', the suppression of Southern nationalism and revanchism, and the recognition of the 13th amendment by the Southern states. Reconstruction ended with the compromise 1877, when federal troops where finally withdrawn from the South. The Confederate banners lie trampled in the ashes of Savannah and Richmond, and it's time to start the reconstruction.;La reconstruction est le terme collectif utilisé pour décrire les politiques, lois, décrets, amendements constitutionnels et décisions présidentielles adoptés apres la guerre de Sécession afin de réintégrer les États confédérés dans l'Union. Ces politiques portaient principalement sur des questions comme la fin du pouvoir esclavagiste, la suppression du nationalisme et du revanchisme du Sud et la reconnaissance du 13e amendement par les États sudistes. La reconstruction prit fin avec le compromis de 1877 qui marqua le retrait des troupes fédérales du Sud. Les drapeaux des Confédérés ont été piétinés dans les cendres de Savannah et de Richmond et l'heure de la reconstruction a sonné.;Wiederaufbau ist der kollektive Ausdruck zur Beschreibung der Politik, Gesetze, Erlässe, Verfassungsänderungen und präsidialen Verfügungen nach dem amerikanischen Bürgerkrieg, deren Ziel die Reintegration der ehemaligen konföderierten Staaten in die Union war. Dabei drehte sich alles hauptsächlich um Probleme wie die Beendigung der Sklaverei, der Unterdrückung des Nationalismus und Revanchismus des Südens und die Anerkennung des 13. Zusatzartikels zur Verfassung durch die Südstaaten. Der Wiederaufbau endete im Jahr 1877 mit einem Kompromiss, als sich Föderationstruppen endlich aus dem Süden zurückzogen. Die Fahnen der Konföderation liegen in der Asche von Savannah und Richmond, und es ist an der Zeit für einen Neuanfang.;;La Reconstrucción es el término colectivo utilizado para describir las políticas, leyes, decretos, enmiendas constitucionales y órdenes presidenciales aprobadas, tras la Guerra Civil americana, con el objetivo de reintegrar los antiguos estados confederados en la Unión. La política se centró en asuntos como el fin del 'poder esclavo', la supresión del nacionalismo y revanchismo del sur y el reconocimiento de la enmienda decimotercera por los estados del sur.  La Reconstrucción acabó con el compromiso de 1877, por el que las tropas federales se retiraron finalmente del sur. Las banderas confederadas yacen pisoteadas bajo las cenizas de Savannah y Richmond y ha llegado el momento de empezar la reconstrucción.;;;;;;;;;x
+EVTOPTA16415;They took my baby away!;Ils ont enlevé mon bébé !;Sie haben mein Baby gestohlen!;;!Se llevaron a mi bebé!;;;;;;;;;x
+EVTOPTB16415;Do it again Uncle Billy!;;;;;;;;;;;;;x
+USA_205;South Carolina;South Carolina;South Carolina;;South Carolina;;;;;;;;;x;;;;
+RNA;Republic of New Afrika;;;;;;;;;;;;x;;;;
+RNA_ADJ;New Afrikan;;;;;;;;;;;;;x;;;;
+RNA_anarchist;Anarchists;;;;;;;;;;;;;x;;;;
+RNA_conservative;Conservative Faction;;;;;;;;;;;;;x;;;;
+RNA_liberal;Liberal Faction;;;;;;;;;;;;;x;;;;
+RNA_socialist;Socialist Faction;;;;;;;;;;;;;x;;;;
+RNA_socialist_2;Social Democrat Faction;;;;;;;;;;;;;x;;;;
+RNA_reactionary;Garveyist Faction;;;;;;;;;;;;;x;;;;
+RNA_anarcho_liberal;Capitalist Faction;;;;;;;;;;;;;x;;;;
+RNA_communist;Communist Faction;;;;;;;;;;;;;x;;;;
+RNA_fascist;African Supremacy Movement;;;;;;;;;;;;;x;;;;
+ZAP;Yucatan;;;;;;;;;;;;x;;;;
+ZAP_ADJ;Yucateco;;;;;;;;;;;;;x;;;;
+ZAP_proletarian_dictatorship;Zapatista Zones;;;;;;;;;;;;x;;;;
+ZAP_proletarian_dictatorship_ADJ;Zapatistas;;;;;;;;;;;;;x;;;;
+ZAP_anarchy;Zapatista Zones;;;;;;;;;;;;x;;;;
+ZAP_anarchy_ADJ;Zapatistas;;;;;;;;;;;;;x;;;;
+ZAP_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
+ZAP_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
+ZAP_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+ZAP_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
+ZAP_socialist;The Zapatista Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;;x
+ZAP_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;;x
+ZAP_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;;x
+ZAP_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+monitor;Submarine;Sous-marin;U-Boot;;Submarino;;;;;;;;;x;;;;
+age_of_socialism;Age of Socialism;;;;;;;;;;;;;x;;;;
+age_of_fascism;Age of Fascism;;;;;;;;;;;;;x;;;;
+age_of_conservatism;Age of Conservatism;;;;;;;;;;;;;x;;;;
+age_of_liberalism;Age of Liberalism;;;;;;;;;;;;;x;;;;
+age_of_reaction;Age of Reaction;;;;;;;;;;;;;x;;;;
+age_of_anarchism;Age of Anarchism;;;;;;;;;;;;;x;;;;
+age_of_communism;Age of Communism;;;;;;;;;;;;;x;;;;
+age_of_radicalism;Age of Radicalism;;;;;;;;;;;;;x;;;;
+age_of_anarcho_liberalism;Age of Capitalism;;;;;;;;;;;;;x;;;;
+EVTNAME100000;An Age of Socialism;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100000;The most powerful nations in the world are ruled by socialists and their people prosper. We should follow their example.;;;;;;;;;;;;;x;;;;
+EVTNAME100005;Socialism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100005;The welfare state has failed to provide a better life in even the biggest nations. We should abandon this Socialism nonsense and get back to business.;;;;;;;;;;;;;x;;;;
+EVTNAME100010;An Age of Capitalism;;;;;;;;;;;;;x;;;;
+EVTDESC100010;The most powerful nations in the world are ruled by liberals and their people prosper. We should follow their example.;;;;;;;;;;;;;x;;;;
+EVTNAME100015;Capitalism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100015;The free market has failed to provide a better life in even the biggest nations. We should abandon this liberalism nonsense and seize the means of production.;;;;;;;;;;;;;x;;;;
+EVTNAME100020;An Age of Autocracy;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100020;The most powerful nations in the world are ruled with an iron fist. We should follow their example.;;;;;;;;;;;;;x;;;;
+EVTNAME100025;Autocracy is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100025;The strongman is weaker than he seems. We should abandon this autocratic nonsense and listen to the people.;;;;;;;;;;;;;x;;;;
+EVTNAME100030;An Age of Anarchism;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100030;The strongest peoples rule themselves. We should follow their example.;;;;;;;;;;;;;x;;;;
+EVTNAME100035;Anarchism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100035;The people are unable to thrive without a state. We should abandon this anarchic nonsense and improve our state.;;;;;;;;;;;;;x;;;;
+form_saudi_arabia_title;Kingdom of Saudi Arabia;Formez l'Arabie;Gründe Arabien;;;;;;;;;;;x
+form_saudi_arabia_desc;Brothers, freedom is here, we have won the battle for our destiny. Now the Arab people are on the way to resurrection!;;;;;;;;;;;;;x
+EVTNAME111011929;Form Saudi Arabia;Formez l'Arabie;Gründe Arabien;;;;;;;;;;;x
+EVTDESC111011929;Through warfare and diplomacy an Arabian union has been created. Shall we join it?;Grâce aux armes et a la diplomatie, une union arabe a été constituée. Devons-nous la rejoindre ?;Durch Krieg und Diplomatie wurde eine arabische Union gegründet. Sollen wir ihr beitreten?;;;;;;;;;;;x
+EVTOPTA111011929;Of course!;Bien sur !;Natürlich!;;;;;;;;;;;x
+EVTOPTB111011929;Never!;Jamais !;Niemals!;;;;;;;;;;;x
+EVTNAME1002;Authoritarian Capitalists;Capitalistes;Kapitalisten;;Capitalistas;;;;;;;;;x;;;;
+EVTDESC1002_NEWS_LONG;A group of liberals disgruntled with their lack of economic freedom, and the pace of parliamentary reform, have formed a new faction in $COUNTRY_ADJ$ politics. The Authoritarian Capitalists are the revolutionary avantgarde of the liberal ideology, and they will not hesitate to use whatever means necessary to see their ideas of freedom and free trade instituted both in $COUNTRY$ and abroad. They demand a world without state compulsion with perfect individual sovereignty in a free market society organized around the principle of non-aggression.;;Eine Gruppe Liberaler, unzufrieden mit ihrem Mangel an wirtschaftlicher Freiheit und parlamentarischen Reformen, hat eine neue Partei in der $COUNTRY_ADJ$ Politik gegründet. Die Anarcho-Liberalen sind die revolutionäre Avantgarde der liberalen Ideologie und werden ohne Zögern alles tun, um ihre Ideen der Freiheit und des freien Handels in $COUNTRY$ und weltweit durchzusetzen. Sie streben nach einer Welt ohne Staatszwang, mit individueller Souveränität und freiem Handel ohne Agression.;;;;;;;;;;;x;
+EVTDESC1002_NEWS_MEDIUM;A group of liberals disgruntled with their lack of economic freedom, and the pace of parliamentary reform, have formed a new faction in $COUNTRY_ADJ$ politics. The Authoritarian Capitalists are the revolutionary avantgarde of the liberal ideology.;;Eine Gruppe Liberaler, unzufrieden mit ihrem Mangel an wirtschaftlicher Freiheit und parlamentarischen Reformen, hat eine neue Partei in der $COUNTRY_ADJ$ Politik gegründet. Die Anarcho-Liberalen sind die revolutionäre Avantgarde der liberalen Ideologie.;;;;;;;;;;;x;
+EVTDESC1002_NEWS_SHORT;A group of liberals disgruntled with their lack of economic freedom, and the pace of parliamentary reform, have formed a new Capitalist faction in $COUNTRY_ADJ$ politics.;;Eine Gruppe Liberaler, unzufrieden mit ihrem Mangel an wirtschaftlicher Freiheit und parlamentarischen Reformen, hat die anarcho-liberale Partei in der $COUNTRY_ADJ$ Politik gegründet.;;;;;;;;;;;x;
+REMOVE_EVTDESC1001_NEWS_LONG;$COUNTRY$: Both for the production on a mass scale of this communist consciousness, and for the success of the cause itself, the alteration of men on a mass scale is, necessary, an alteration which can only take place in a practical movement, a revolution; this revolution is necessary, therefore, not only because the ruling class cannot be overthrown in any other way, but also because the class overthrowing it can only in a revolution succeed in ridding itself of all the muck of ages and become fitted to found society anew.;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der keine Unterdrückung oder Knappheit herrscht. Wir brauchen eine Gesellschaft ohne Regierung oder Klassentrennung, in der die Arbeiter die Produktion kontrollieren. Wir streben nach einer Gesellschaft ohne Verfremdung, Geld oder Privateigentum mit einem Überschuss an Ressourcen in der Welt gemäß unserer Ideologie. Güterverteilung sollte auf Bedarf basieren, der Mensch komplett frei sein.;;;;;;;;;;;x;
+EVTDESC1001_NEWS_LONG;$COUNTRY$: Let the ruling classes tremble at a Communist revolution. The proletarians have nothing to lose but their chains. They have a world to win. Workers of the world, unite!;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der keine Unterdrückung oder Knappheit herrscht. Wir brauchen eine Gesellschaft ohne Regierung oder Klassentrennung, in der die Arbeiter die Produktion kontrollieren. Wir streben nach einer Gesellschaft ohne Verfremdung, Geld oder Privateigentum mit einem Überschuss an Ressourcen in der Welt gemäß unserer Ideologie. Güterverteilung sollte auf Bedarf basieren, der Mensch komplett frei sein.;;;;;;;;;;;x;
+EVTDESC1001_NEWS_MEDIUM;$COUNTRY$: Let the ruling classes tremble at a Communist revolution. The proletarians have nothing to lose but their chains. They have a world to win. Workers of the world, unite!;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der keine Knappheit herrscht. Wir brauchen eine Gesellschaft ohne Regierung oder Klassentrennung, in der die Arbeiter die Produktion kontrollieren.;;;;;;;;;;;x;
+EVTDESC1001_NEWS_SHORT;$COUNTRY$: Let the ruling classes tremble at a Communist revolution. The proletarians have nothing to lose but their chains. They have a world to win. Workers of the world, unite!;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der die Menschheit frei von Unterdrückung und Knappheit ist.;;;;;;;;;;;x;
+EVTDESC1001;$COUNTRY$: Let the ruling classes tremble at a Communist revolution. The proletarians have nothing to lose but their chains. They have a world to win. Workers of the world, unite!;;$COUNTRY$: Wir wollen, nein, wir BRAUCHEN eine freie Gesellschaft, in der niemand den Vorrang hat oder das Nachsehen und in der die Menschheit frei von Unterdrückung und Knappheit ist.;;;;;;;;;;;x;
+LEB;Lebanon;Liban;Libanon;;Líbano;;;;;;;;;x
+LEB_ADJ;Lebanese;Lebanese;Lebanese;;Lebanese;;;;;;;;;x
+LEB_absolute_monarchy;Mutasarrifate of Lebanon;Mutasarrifate of Lebanon;Mutasarrifate of Lebanon;;Mutasarrifate of Lebanon;;;;;;;;;x
+LEB_liberal;Liberal Party;Parti Libéral;Liberale Partei;;Partido Liberal;;;;;;;;;x
+LEB_conservative;Conservative Party;Parti Conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
+LEB_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;;Partido Socialista;;;;;;;;;x
+LEB_communist;Communist Party;Parti Communiste;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
+LEB_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+LEB_reactionary_2;Reactionary Party;Parti Réactionnaire;Reaktionäre Partei;;Partido Reaccionario;;;;;;;;;x
+LEB_fascist;Falange;Falange;Falange;;Falange;;;;;;;;;x;;;;
+LEB_anarcho_liberal;Anarcho-Liberal Party;Party Anarcho-libéral;Anarcho-liberale Partei;;Partido anarcoliberal;;;;;;;;;x
+LEB_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+PKS_liberal;Liberal Party;Parti Libéral;Liberale Partei;;Partido Liberal;;;;;;;;;x
+PKS_conservative;Conservative Party;Parti Conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
+PKS_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;;Partido Socialista;;;;;;;;;x
+PKS_communist;Communist Party;Parti Communiste;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
+PKS_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+PKS_fascist;Falange;Falange;Falange;;Falange;;;;;;;;;x;;;;
+PKS_anarcho_liberal;Anarcho-Liberal Party;Party Anarcho-libéral;Anarcho-liberale Partei;;Partido anarcoliberal;;;;;;;;;x
+PKS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+ASR;Syria;;;;;;;;;;;;x;;;;
+ASR_ADJ;Syrian;;;;;;;;;;;;;x;;;;
+ASR_absolute_monarchy;Alawites;;;;;;;;;;;;x;;;;
+ASR_absolute_monarchy_ADJ;Alawite;;;;;;;;;;;;;x;;;;
+ASR_fascist_dictatorship;Greater Syria;;;;;;;;;;;;x;;;;
+ASR_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
+ASR_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
+ASR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+ASR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
+ASR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;;x
+ASR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;;x
+ASR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;;x
+ASR_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+mormon_culture;Mormon;Mormon;Mormonisch;;Mormona;;;;;;;;;x;;;;
+CCS;Circassia;Circassia;Circassia;;Circassia;;;;;;;;x
+CCS_ADJ;Circassian;Circassian;Circassian;;Circassian;;;;;;;;x
+CCS_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
+CCS_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
+CCS_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+CCS_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
+CCS_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;;x
+CCS_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;;x
+CCS_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;;x
+CCS_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
+CDG;Dagestan;Dagestan;Dagestan;;Dagestan;;;;;;;;x
+CDG_ADJ;Dagestani;Dagestani;Dagestani;;Dagestani;;;;;;;;x
+CDG_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
+CDG_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
+CDG_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
+CDG_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
+CDG_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;;x
+CDG_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;;x
+CDG_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;;x
+CDG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;

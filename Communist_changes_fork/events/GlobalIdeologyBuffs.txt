@@ -1,0 +1,433 @@
+# An Age of Socialism
+country_event = {
+	id = 100000
+	title = "EVTNAME100000"
+	desc = "EVTDESC100000"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		year = 1870
+		rank = 2
+		is_ideology_enabled = socialist
+		NOT = { has_global_flag = age_of_socialism }
+		OR = { pop_majority_ideology = socialist pop_majority_ideology = communist }
+		OR = { ruling_party_ideology = socialist ruling_party_ideology = communist }
+		poor_strata_everyday_needs = 0.3
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTNAME60000"
+		#add_country_modifier = {
+		#	name = global_socialist_agitation
+		#	duration = -1
+		#}
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		set_global_flag = age_of_socialism
+	}
+}
+
+#Socialism is Discredited!
+country_event = {
+	id = 100005
+	title = "EVTNAME100005"
+	desc = "EVTDESC100005"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		OR = {
+			has_global_flag = age_of_socialism
+			has_global_flag = age_of_apathy
+		}
+		NOT = { OR = { pop_majority_ideology = socialist pop_majority_ideology = communist } }
+		OR = { ruling_party_ideology = socialist ruling_party_ideology = communist }
+		NOT = { poor_strata_everyday_needs = 0.3 }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA3801"
+		clr_global_flag = age_of_socialism
+	}
+}
+
+#Age of Capitalism
+country_event = {
+	id = 100010
+	title = "EVTNAME100010"
+	desc = "EVTDESC100010"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		year = 1836
+		rank = 2
+		is_ideology_enabled = anarcho_liberal
+		NOT = { has_global_flag = age_of_anarcho_liberalism }
+		OR = { pop_majority_ideology = liberal pop_majority_ideology = anarcho_liberal }
+		OR = { ruling_party_ideology = liberal ruling_party_ideology = anarcho_liberal }
+		poor_strata_everyday_needs = 0.3
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = liberal
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		set_global_flag = age_of_anarcho_liberalism
+	}
+}
+
+#Capitalism is Discredited!
+country_event = {
+	id = 100015
+	title = "EVTNAME100015"
+	desc = "EVTDESC100015"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		is_ideology_enabled = anarcho_liberal
+		OR = {
+			has_global_flag = age_of_capitalism
+			has_global_flag = age_of_apathy
+		}
+		NOT = { OR = { pop_majority_ideology = liberal pop_majority_ideology = anarcho_liberal } }
+		OR = { ruling_party_ideology = liberal ruling_party_ideology = anarcho_liberal }
+		NOT = { poor_strata_everyday_needs = 0.3 }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		clr_global_flag = age_of_anarcho_liberalism
+	}
+}
+
+#Age of Reaction
+country_event = {
+	id = 100020
+	title = "EVTNAME100020"
+	desc = "EVTDESC100020"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		year = 1836
+		rank = 2
+		NOT = { has_global_flag = age_of_reaction }
+		OR = { pop_majority_ideology = conservative pop_majority_ideology = reactionary }
+		OR = { ruling_party_ideology = conservative ruling_party_ideology = reactionary }
+		poor_strata_everyday_needs = 0.3
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = reactionary
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		set_global_flag = age_of_reaction
+	}
+}
+
+#Royalism is Discredited!
+country_event = {
+	id = 100025
+	title = "EVTNAME100025"
+	desc = "EVTDESC100025"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		OR = {
+			has_global_flag = age_of_reaction
+			has_global_flag = age_of_apathy
+		}
+		NOT = { OR = { pop_majority_ideology = conservative pop_majority_ideology = reactionary } }
+		OR = { ruling_party_ideology = conservative ruling_party_ideology = reactionary }
+		NOT = { poor_strata_everyday_needs = 0.3 }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		clr_global_flag = age_of_reaction
+	}
+}
+
+#Age of Anarchism
+country_event = {
+	id = 100030
+	title = "EVTNAME100030"
+	desc = "EVTDESC100030"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		year = 1860
+		rank = 2
+		is_ideology_enabled = anarchist
+		NOT = { has_global_flag = age_of_anarchism }
+		pop_majority_ideology = anarchist
+		ruling_party_ideology = anarchist
+		poor_strata_everyday_needs = 0.3
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = anarchist
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		set_global_flag = age_of_anarchism
+	}
+}
+
+#Anarchism is Discredited!
+country_event = {
+	id = 100035
+	title = "EVTNAME100035"
+	desc = "EVTDESC100035"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		OR = {
+			has_global_flag = age_of_anarchism
+			has_global_flag = age_of_apathy
+		}
+		NOT = { pop_majority_ideology = anarchist }
+		ruling_party_ideology = anarchist
+		NOT = { poor_strata_everyday_needs = 0.3 }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		clr_global_flag = age_of_anarchism
+	}
+}
+#Age of Fascism
+#country_event = {
+#	id = 100040
+#	title = "EVTNAME100040"
+#	desc = "EVTDESC100040"
+#	picture = "News"
+#	
+#	major = yes
+#	
+#	trigger = {
+#		civilized = yes
+#		year = 1905
+#		rank = 2
+#		is_ideology_enabled = fascist
+#		NOT = { has_global_flag = age_of_fascism }
+#		pop_majority_ideology = fascist
+#		ruling_party_ideology = fascist
+#		poor_strata_everyday_needs = 0.3
+#	}
+#
+#	mean_time_to_happen = {
+#		months = 120
+#	}
+#
+#	option = {
+#		name = "EVTOPTA1001"
+#		any_pop = {
+#			limit = {
+#				location = {
+#					is_colonial = no
+#				}
+#			}
+#			ideology = {
+#				value = fascist
+#				factor = 0.05
+#			}
+#			consciousness = 1
+#		}
+#		set_global_flag = age_of_fascism
+#	}
+#}
+#
+#Fascism is Discredited!
+#country_event = {
+#	id = 100045
+#	title = "EVTNAME100045"
+#	desc = "EVTDESC100045"
+#	picture = "News"
+#	
+#	major = yes
+#	
+#	trigger = {
+#		civilized = yes
+#		rank = 2
+#		OR = {
+#			has_global_flag = age_of_fascism
+#			has_global_flag = age_of_apathy
+#		}
+#		has_global_flag = age_of_fascism
+#		NOT = { pop_majority_ideology = fascist }
+#		ruling_party_ideology = fascist
+#		NOT = { poor_strata_everyday_needs = 0.3 }
+#	}
+#
+#	mean_time_to_happen = {
+#		months = 120
+#	}
+#
+#	option = {
+#		name = "EVTOPTA1001"
+#		clr_global_flag = age_of_fascism
+#	}
+#}
+#
+
+#Age of Apathy
+#country_event = {
+#	id = 100050
+#	title = "EVTNAME100050"
+#	desc = "EVTDESC100050"
+#	picture = "News"
+#	
+#	major = yes
+#	
+#	trigger = {
+#		civilized = yes
+#		rank = 2
+#		NOT = { has_global_flag = age_of_apathy }
+#		poor_strata_everyday_needs = 0.5
+#	}
+#
+#	mean_time_to_happen = {
+#		months = 120
+#	}
+#
+#	option = {
+#		name = "EVTOPTA1001"
+#		any_pop = {
+#			limit = {
+#				location = {
+#					is_colonial = no
+#				}
+#			}
+#			ideology = {
+#				value = conservative
+#				factor = 0.05
+#			}
+#			consciousness = 1
+#		}
+#		set_global_flag = age_of_apathy
+#	}
+#}
+#
+#Apathy is Discredited!
+#country_event = {
+#	id = 100050
+#	title = "EVTNAME100050"
+#	desc = "EVTDESC100050"
+#	picture = "News"
+#	
+#	major = yes
+#	
+#	trigger = {
+#		civilized = yes
+#		rank = 2
+#		has_global_flag = age_of_apathy
+#		NOT = { poor_strata_everyday_needs = 0.5 }
+#	}
+#
+#	mean_time_to_happen = {
+#		months = 120
+#	}
+#
+#	option = {
+#		name = "EVTOPTA1001"
+#		clr_global_flag = age_of_apathy
+#	}
+#}

@@ -1,0 +1,110 @@
+#Anarchist Soup-Kitchens
+country_event = {
+	id = 17710
+	title = "EVTNAME17710"
+	desc = "EVTDESC17710"
+	picture = "Poor"
+	
+	trigger = {
+		is_ideology_enabled = anarchist
+		civilized = yes
+		anarchist = 5
+		unemployment = 0.05
+		NOT = {
+			has_country_modifier = mutual_aid_society
+		}
+		NOT = {
+			OR = {
+				social_reform = acceptable_subsidies
+				social_reform = good_subsidies
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			collectivist_theory = 1
+		}
+		modifier = {
+			factor = 0.5
+			invention = pierre_joseph_proudhon
+		}
+		modifier = {
+			factor = 0.5
+			invention = social_conscience
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.7
+			nationalvalue = nv_equality
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA17620"
+		add_country_modifier = {
+			name = mutual_aid_society
+			duration = 365
+		}
+		random_owned = {
+			poor_strata = {
+				consciousness = 1
+				militancy = 1
+				ideology = {
+					value = anarchist
+					factor = 0.1
+				}
+				dominant_issue = {
+					factor = 0.1
+					value = decentralized_planning
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB17620"
+		random_state = {
+			poor_strata = {
+				militancy = 3
+				consciousness = 2
+			}
+		}
+	}
+}
+

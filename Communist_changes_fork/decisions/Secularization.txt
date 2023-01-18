@@ -1,0 +1,45 @@
+#political_decisions = {
+#	secularize_country = {
+#		potential = {
+#			invention = secularization
+#			OR = {
+#				religious_policy = secularized
+#				religious_policy = pro_atheism
+#			}
+#			NOT = {
+#				has_country_modifier = conservative_reaction
+#			}
+#			NOT = {
+#				OR = {
+#					school_reform = low_schools
+#					school_reform = acceptable_schools
+#					school_reform = good_schools
+#				}
+#			}
+#		}
+#		allow = {
+#			OR = {
+#				ruling_party_ideology = liberal
+#				ruling_party_ideology = anarcho_liberal
+#				ruling_party_ideology = anarchist
+#				ruling_party_ideology = socialist
+#				ruling_party_ideology = communist
+#				government = absolute_monarchy
+#				government = hms_government
+#			}
+#			OR = {
+#				secularized = 55
+#				pro_atheism = 55
+#			}
+#			prestige = 45
+#		}
+#		effect = {
+#			prestige = 15
+#			add_country_modifier = {
+#				name = conservative_reaction
+#				duration = 1825
+#			}
+#			social_reform = low_schools
+#		}
+#	}
+#}

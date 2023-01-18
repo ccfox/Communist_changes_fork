@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = GUA
+add_core = ZAP
+add_core = UCA
+trade_goods = fruit
+life_rating = 30
+colonial = 2

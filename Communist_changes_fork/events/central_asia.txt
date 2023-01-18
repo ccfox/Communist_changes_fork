@@ -1,0 +1,60 @@
+#Kazakh Sentiments
+province_event = {
+	id = 110000
+	title = "EVTNAME110000"
+	desc = "EVTDESC110000"
+	
+	trigger = {
+		OR = {
+			province_id = 1185
+			province_id = 1186
+			province_id = 1187
+			province_id = 1188
+			province_id = 2606
+			province_id = 1181
+			province_id = 1184
+			province_id = 1193
+			province_id = 2612
+		}
+		NOT = {
+			is_core = KZK
+		}
+#		NOT = {
+#			owned_by = KZK
+#		}
+		owned_by = RUS 
+		average_militancy = 4
+	}
+	
+	mean_time_to_happen = {
+		months = 13
+		modifier = {
+			factor = 0.5
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.5
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.5
+			average_consciousness = 5
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA16250"
+		state_scope = {
+			any_owned = {
+				add_core = KZK
+			}
+			any_pop = {
+				ideology = {
+					value = reactionary
+					factor = 0.1
+				}
+				militancy = 1
+			}
+		}
+	}
+}

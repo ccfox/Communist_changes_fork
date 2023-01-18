@@ -1,0 +1,45 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+#
+#polypoly_structure = {
+#	trigger = {
+#		market_structure = 1
+#		OR = {
+#			ruling_party_ideology = liberal
+#			ruling_party_ideology = anarchist
+#		}
+#		economic_policy = laissez_faire
+#	}
+#	factory_input = -0.02
+#}
+#
+#oligopoly_structure = {
+#	trigger = {
+#		market_structure = 1
+#		OR = {
+#			ruling_party_ideology = conservative
+#			ruling_party_ideology = fascist
+#			ruling_party_ideology = reactionary
+#		}
+#		economic_policy = interventionism
+#	}
+#	factory_output = 0.02
+#}
+#
+#monopoly_structure = {
+#	trigger = {
+#		market_structure = 1
+#		OR = {
+#			ruling_party_ideology = socialist
+#			ruling_party_ideology = anarcho_liberal
+#			ruling_party_ideology = communist
+#		}
+#		OR = {
+#			economic_policy = state_capitalism
+#			economic_policy = planned_economy
+#		}
+#	}
+#	factory_throughput = 0.05
+#}

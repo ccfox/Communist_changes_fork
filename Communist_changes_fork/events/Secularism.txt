@@ -1,0 +1,25 @@
+#Separation of Church and State
+#country_event = {
+#	id = 4500
+#	title = "Separation of Church and State"
+#	desc = "EVTDESC4500"
+#	picture = "Administration"
+#	
+#	trigger = {
+#		OR = {
+#			religious_policy = secularized
+#			religious_policy = pro_atheism
+#		}
+#		NOT = { has_country_flag = secular_state }
+#	}
+#	
+#	mean_time_to_happen = {
+#		months = 1
+#	}
+#	
+#	option = {
+#		name = "Freedom!"
+#		religion = freethought
+#		set_country_flag = secular_state
+#	}
+#}
