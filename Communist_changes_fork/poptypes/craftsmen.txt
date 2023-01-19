@@ -1099,7 +1099,10 @@ ideologies = {
 		}	
 		modifier = {
 			factor = 2
-			ruling_party_ideology = fascist
+			OR = {
+				ruling_party_ideology = fascist
+				has_global_flag = age_of_fascism
+			}
 		}
 		modifier = {
 			factor = 1.1
@@ -1127,7 +1130,10 @@ ideologies = {
 		}
 		modifier = {
 			factor = 1.2
-			ruling_party_ideology = reactionary
+			OR = {
+				ruling_party_ideology = reactionary
+				has_global_flag = age_of_reaction
+			}
 		}
 		modifier = {
 			factor = 1.2
@@ -1560,7 +1566,10 @@ ideologies = {
 		factor = 1
 		modifier = {
 			factor = 2
-			ruling_party_ideology = anarcho_liberal
+			OR = {
+				ruling_party_ideology = anarcho_liberal
+				has_global_flag = age_of_anarcho_liberalism
+			}
 		}
 		modifier = {
 			factor = 0.5
@@ -1623,7 +1632,10 @@ ideologies = {
 		}
 		modifier = {
 			factor = 2
-			ruling_party_ideology = anarchist 
+			OR = {
+				ruling_party_ideology = anarchist
+				has_global_flag = age_of_anarchism
+			}
 		}
 		modifier = {
 			factor = 0.5
