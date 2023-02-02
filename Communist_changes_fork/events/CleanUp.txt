@@ -413,7 +413,7 @@ country_event = {
 		upper_house_composition = party_appointed
 		OR = {
 			ruling_party_ideology = liberal 
-			ruling_party_ideology = anarcho_liberal 
+			ruling_party_ideology = anarchist 
 		}
 	}
 	
