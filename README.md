@@ -1,5 +1,8 @@
-# Communist_changes_fork
+# Communist Changes
 A mod for Vic2 HoD intended to improve late game and make the communists suck less
+
+## Installation
+Copy the Communist_changes subfolder and Communist_changes.mod file to your /mod folder then start a new game
 
 ## Features 
 
