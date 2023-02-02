@@ -60,5 +60,3 @@ publishing_industry = 1
 # Inventions
 
 #Starting Consciousness
-consciousness = 2
-nonstate_consciousness = 1
