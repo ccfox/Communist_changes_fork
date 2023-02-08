@@ -31,6 +31,12 @@ Neoprene and synthetic fiber inventions unlock synthetic rubber and silk factori
 3. Saudi
 4. Kazakhstan
 5. Republic of New Afrika
+6. Wales
+7. Yucatan
+8. Kurdistan
+
+
+
 
 todo
 
