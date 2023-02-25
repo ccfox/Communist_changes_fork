@@ -19,7 +19,7 @@ liberal_uh;Liberals want to enact further political and social reforms.;Les libé
 ABU;United Arab Emirates;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
 ABU_ADJ;Emirati;Emirati;Emirate;;Emirati;;;;;;;;;x;;;;
 ABU_absolute_monarchy;Abu Dhabi;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
-ABU_absolute_monarchy_ADJ;Abu Dhabian;Abu-dhabien;Abu Dhabisch;;Abu Dhab?;;;;;;;;x;;;;
+ABU_absolute_monarchy_ADJ;Abu Dhabian;Abu-dhabien;Abu Dhabisch;;Abu Dhabí;;;;;;;;x;;;;
 ABU_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
 ABU_democracy;United Arab States;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;
 AFG_anarchist;Anarchist Party;;;;;;;;;;;;;x;;;;
@@ -424,7 +424,7 @@ roma;Roma;;;;;;;;;;;;;x;;;;
 dom;Dom;;;;;;;;;;;;;x;;;;
 sinti;Sinti;;;;;;;;;;;;;x;;;;
 irish_travellers;Travellers;;;;;;;;;;;;;x;;;;
-south_american;Native South American;Am?indien;Uramerikanisch;;Nativo-americana;;;;;;;;;x;;;;
+south_american;Native South American;Amérindien;Uramerikanisch;;Nativo-americana;;;;;;;;;x;;;;
 synthetic_fiber_factory;Synthetic Silk Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 synthetic_fiber_factory_desc;Synthetic Silk Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 polychloroprene_factory;Synthetic Rubber Factory;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -496,6 +496,7 @@ age_of_anarchism;Age of Anarchism;;;;;;;;;;;;;x;;;;
 age_of_communism;Age of Communism;;;;;;;;;;;;;x;;;;
 age_of_radicalism;Age of Radicalism;;;;;;;;;;;;;x;;;;
 age_of_anarcho_liberalism;Age of Capitalism;;;;;;;;;;;;;x;;;;
+age_of_apathy;Age of Apathy;;;;;;;;;;;;;x;;;;
 EVTNAME100000;An Age of Socialism;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
 EVTDESC100000;The most powerful nations in the world are ruled by socialists and their people prosper. We should follow their example.;;;;;;;;;;;;;x;;;;
 EVTNAME100005;Socialism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
@@ -512,6 +513,14 @@ EVTNAME100030;An Age of Anarchism;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x
 EVTDESC100030;The strongest peoples rule themselves. We should follow their example.;;;;;;;;;;;;;x;;;;
 EVTNAME100035;Anarchism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
 EVTDESC100035;The people are unable to thrive without a state. We should abandon this anarchic nonsense and improve our state.;;;;;;;;;;;;;x;;;;
+EVTNAME100040;An Age of Fascism;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100040;The strongest peoples rule all others. We should follow their example.;;;;;;;;;;;;;x;;;;
+EVTNAME100045;Fascism is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100045;Behold the 'master race'; weak and pitiful. We should abandon this racist nonsense and unite as brothers.;;;;;;;;;;;;;x;;;;
+EVTNAME100050;An Age of Apathy;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100050;We should be content.;;;;;;;;;;;;;x;;;;
+EVTNAME100055;Apathy is Discredited!;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x;;;;
+EVTDESC100055;Look at this mess! What should we do!?;;;;;;;;;;;;;x;;;;
 form_saudi_arabia_title;Kingdom of Saudi Arabia;Formez l'Arabie;Gründe Arabien;;;;;;;;;;;x
 form_saudi_arabia_desc;Brothers, freedom is here, we have won the battle for our destiny. Now the Arab people are on the way to resurrection!;;;;;;;;;;;;;x
 EVTNAME111011929;Form Saudi Arabia;Formez l'Arabie;Gründe Arabien;;;;;;;;;;;x
