@@ -166,7 +166,6 @@ country_event = {
 		}
 		civilized = yes
 		NOT = { ruling_party_ideology = fascist }
-		#NOT = { ruling_party_ideology = liberal }
 		NOT = { ruling_party_ideology = anarcho_liberal }
 		NOT = { ruling_party_ideology = communist }
 		vote_franschise = none_voting

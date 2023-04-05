@@ -402,7 +402,7 @@ liberal_group = {
 	anarcho_liberal = { #Capitalist
 		uncivilized = no
 		color = { 0 128 0 }
-		date = 1848.1.1
+		date = 1870.1.1
 		
 		add_political_reform = {
 			base = 1

@@ -56,12 +56,9 @@ country_event = {
 	trigger = {
 		civilized = yes
 		rank = 2
-		OR = {
-			has_global_flag = age_of_socialism
-			has_global_flag = age_of_apathy
-		}
+		has_global_flag = age_of_socialism
 		NOT = { OR = { pop_majority_ideology = socialist pop_majority_ideology = communist } }
-		OR = { ruling_party_ideology = socialist ruling_party_ideology = communist }
+		OR = { has_global_flag = age_of_apathy ruling_party_ideology = socialist ruling_party_ideology = communist }
 		NOT = { poor_strata_everyday_needs = 0.3 }
 	}
 
@@ -130,12 +127,9 @@ country_event = {
 		civilized = yes
 		rank = 2
 		is_ideology_enabled = anarcho_liberal
-		OR = {
-			has_global_flag = age_of_capitalism
-			has_global_flag = age_of_apathy
-		}
+		has_global_flag = age_of_capitalism
 		NOT = { OR = { pop_majority_ideology = liberal pop_majority_ideology = anarcho_liberal } }
-		OR = { ruling_party_ideology = liberal ruling_party_ideology = anarcho_liberal }
+		OR = { has_global_flag = age_of_apathy ruling_party_ideology = liberal ruling_party_ideology = anarcho_liberal }
 		NOT = { poor_strata_everyday_needs = 0.3 }
 	}
 
@@ -202,12 +196,9 @@ country_event = {
 	trigger = {
 		civilized = yes
 		rank = 2
-		OR = {
-			has_global_flag = age_of_reaction
-			has_global_flag = age_of_apathy
-		}
+		has_global_flag = age_of_reaction
 		NOT = { OR = { pop_majority_ideology = conservative pop_majority_ideology = reactionary } }
-		OR = { ruling_party_ideology = conservative ruling_party_ideology = reactionary }
+		OR = { has_global_flag = age_of_apathy ruling_party_ideology = conservative ruling_party_ideology = reactionary }
 		NOT = { poor_strata_everyday_needs = 0.3 }
 	}
 
@@ -275,12 +266,9 @@ country_event = {
 	trigger = {
 		civilized = yes
 		rank = 2
-		OR = {
-			has_global_flag = age_of_anarchism
-			has_global_flag = age_of_apathy
-		}
+		has_global_flag = age_of_anarchism
 		NOT = { pop_majority_ideology = anarchist }
-		ruling_party_ideology = anarchist
+		OR = { has_global_flag = age_of_apathy ruling_party_ideology = anarchist }
 		NOT = { poor_strata_everyday_needs = 0.3 }
 	}
 
@@ -369,65 +357,65 @@ country_event = {
 #
 
 #Age of Apathy
-#country_event = {
-#	id = 100050
-#	title = "EVTNAME100050"
-#	desc = "EVTDESC100050"
-#	picture = "News"
-#	
-#	major = yes
-#	
-#	trigger = {
-#		civilized = yes
-#		rank = 2
-#		NOT = { has_global_flag = age_of_apathy }
-#		poor_strata_everyday_needs = 0.5
-#	}
-#
-#	mean_time_to_happen = {
-#		months = 120
-#	}
-#
-#	option = {
-#		name = "EVTOPTA1001"
-#		any_pop = {
-#			limit = {
-#				location = {
-#					is_colonial = no
-#				}
-#			}
-#			ideology = {
-#				value = conservative
-#				factor = 0.05
-#			}
-#			consciousness = 1
-#		}
-#		set_global_flag = age_of_apathy
-#	}
-#}
-#
+country_event = {
+	id = 100050
+	title = "EVTNAME100050"
+	desc = "EVTDESC100050"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		NOT = { has_global_flag = age_of_apathy }
+		poor_strata_everyday_needs = 0.5
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = conservative
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		set_global_flag = age_of_apathy
+	}
+}
+
 #Apathy is Discredited!
-#country_event = {
-#	id = 100050
-#	title = "EVTNAME100050"
-#	desc = "EVTDESC100050"
-#	picture = "News"
-#	
-#	major = yes
-#	
-#	trigger = {
-#		civilized = yes
-#		rank = 2
-#		has_global_flag = age_of_apathy
-#		NOT = { poor_strata_everyday_needs = 0.5 }
-#	}
-#
-#	mean_time_to_happen = {
-#		months = 120
-#	}
-#
-#	option = {
-#		name = "EVTOPTA1001"
-#		clr_global_flag = age_of_apathy
-#	}
-#}
+country_event = {
+	id = 100050
+	title = "EVTNAME100050"
+	desc = "EVTDESC100050"
+	picture = "News"
+	
+	major = yes
+	
+	trigger = {
+		civilized = yes
+		rank = 2
+		has_global_flag = age_of_apathy
+		NOT = { poor_strata_everyday_needs = 0.5 }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+	}
+
+	option = {
+		name = "EVTOPTA1001"
+		clr_global_flag = age_of_apathy
+	}
+}
