@@ -12,7 +12,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+citizenship_policy = limited_citizenship
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist

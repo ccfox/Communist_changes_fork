@@ -20,7 +20,7 @@ upper_house = {
 
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = universal_weighted_voting
+citizenship_policy = full_citizenship
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions

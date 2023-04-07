@@ -17,7 +17,7 @@ prestige = 100
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+citizenship_policy = limited_citizenship
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist
@@ -135,7 +135,7 @@ decision = torching_of_the_summer_palace
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+citizenship_policy = limited_citizenship
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = non_socialist
