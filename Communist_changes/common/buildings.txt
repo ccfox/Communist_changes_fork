@@ -185,6 +185,48 @@ synthetic_oil_factory = {
 	strategic_factory = yes
 }
 
+polychloroprene_factory = { #Communist Changes
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		steel = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = polychloroprene_factory
+	pop_build_factory = yes
+	strategic_factory = yes
+}
+
+synthetic_fiber_factory = { #Communist Changes
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		steel = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = synthetic_fiber_factory
+	pop_build_factory = yes
+	strategic_factory = yes
+}
+
 fuel_refinery = {
 	type = factory
 
@@ -493,48 +535,6 @@ dye_factory = {
 
 	production_type = dye_factory
 	pop_build_factory = yes
-}
-
-polychloroprene_factory = { #Communist Changes
-	type = factory
-
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 99
-	goods_cost =
-	{
-		machine_parts = 80
-		steel = 200
-		cement = 200
-	}
-	time = 365
-	visibility = yes
-	onmap = no
-
-	production_type = polychloroprene_factory
-	pop_build_factory = yes
-	strategic_factory = yes
-}
-
-synthetic_fiber_factory = { #Communist Changes
-	type = factory
-
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 99
-	goods_cost =
-	{
-		machine_parts = 80
-		steel = 200
-		cement = 200
-	}
-	time = 365
-	visibility = yes
-	onmap = no
-
-	production_type = synthetic_fiber_factory
-	pop_build_factory = yes
-	strategic_factory = yes
 }
 
 liquor_distillery = {
