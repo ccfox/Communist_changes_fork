@@ -7,7 +7,7 @@ Copy the Communist_changes subfolder and Communist_changes.mod file to your /mod
 ## Features 
 
 #### Ideology
-Communists and Anarcho-Liberals support enacting or revoking political reforms only if they ar the ruling party. Fascists always support revoking political reforms.
+Communists and Anarcho-Liberals support enacting or revoking political reforms only if they are the ruling party. Fascists always support revoking political reforms.
 
 Anarcho-Liberals are renamed Capitalists; pops support Capitalists if they don't support social reforms or their luxury needs are fufilled. Capitalists unlock in 1870
 
