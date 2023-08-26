@@ -21,8 +21,6 @@ Reactionaries are in coalition with fascists
 New economic policy for the anarchists (it needs work).
 
 #### Economy
-Cavalry requires cattle
-
 Neoprene and synthetic fiber inventions unlock synthetic rubber and silk factories.
 
 #### Countries
