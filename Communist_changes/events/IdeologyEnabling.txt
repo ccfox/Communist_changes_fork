@@ -145,7 +145,7 @@ country_event = {
 		NOT = {
 			is_ideology_enabled = anarcho_liberal 
 		}
-		year = 1870
+		year = 1848
 		civilized = yes
 		literacy = 0.65
 		OR = {
@@ -160,8 +160,22 @@ country_event = {
 	major = yes
 	fire_only_once = yes
 	
+
 	mean_time_to_happen = {
-		months = 24
+		months = 300
+		
+		modifier = {
+			factor = 0.5
+			invention = carl_menger
+		}
+		modifier = {
+			factor = 0.8
+			invention = ludwig_von_mises
+		}
+		modifier = {
+			factor = 1.5
+			poor_strata_life_needs = 0.95
+		}
 	}
 
 	option = {
@@ -250,7 +264,7 @@ country_event = {
 		NOT = {
 			is_ideology_enabled = anarchist
 		}
-		year = 1848
+		year = 1870
 		civilized = yes
 		literacy = 0.5
 		OR = {
